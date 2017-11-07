@@ -110,3 +110,6 @@ ENV/
 # data
 data/faces/
 data/news_data/
+
+# Video files.
+/video/
