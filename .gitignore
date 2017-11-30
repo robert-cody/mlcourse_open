@@ -102,7 +102,7 @@ ENV/
 # Submission files
 */output
 
-# IntelliJ IDEA.
+# IntelliJ IDEA
 /.idea/
 /out/
 *.iml
@@ -111,5 +111,5 @@ ENV/
 data/faces/
 data/news_data/
 
-# Video files.
+# Video files
 /video/
